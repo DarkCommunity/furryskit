@@ -1,0 +1,2 @@
+# furryskit
+furrysense partial 
